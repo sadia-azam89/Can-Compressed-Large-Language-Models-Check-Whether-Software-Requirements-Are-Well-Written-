@@ -1,0 +1,27 @@
+# Datasets (download from Zenodo, see data/README.md)
+data/*.csv
+
+# Notebook working folders, model checkpoints and caches
+nice_work/
+nice_work_v2/
+nice_work_v3/
+nice_conference_efficient/
+models/
+checkpoints/
+*.safetensors
+*.bin
+*.pt
+*.zip
+
+# Secrets
+.env
+*.key
+
+# Human-evaluation answer key (keep private)
+*KEY_do_not_share*
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store

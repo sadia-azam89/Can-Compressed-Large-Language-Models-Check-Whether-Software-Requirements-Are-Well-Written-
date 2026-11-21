@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite it as below."
+title: "Can Compressed Large Language Models Check Whether Software Requirements Are Well Written?"
+type: software
+license: MIT
+authors:
+  - family-names: Azam
+    given-names: Sadia
+    affiliation: FAST-NUCES Islamabad
+    orcid: "https://orcid.org/0009-0001-3348-1424"
+  - family-names: Jamil
+    given-names: Akhtar
+    affiliation: FAST-NUCES Islamabad
+  - family-names: Janjua
+    given-names: Seemab Zafar
+    affiliation: NUML Rawalpindi Campus
+  - family-names: Javed
+    given-names: Imran
+    affiliation: NUML Rawalpindi Campus
+date-released: 2026-11-21

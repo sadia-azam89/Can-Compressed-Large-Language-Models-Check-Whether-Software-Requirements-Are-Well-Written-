@@ -1,4 +1,5 @@
-# Can-Compressed-Large-Language-Models-Check-Whether-Software-Requirements-Are-Well-Written-
+# Can Compressed Large Language Models Check Whether Software Requirements Are Well Written?
+
 Code and notebooks for the paper **"Can Compressed Large Language Models Check Whether Software Requirements Are Well Written?"**, submitted to ICIDST 2026.
 
 **Authors:** Sadia Azam¹, Akhtar Jamil¹, Seemab Zafar Janjua², Imran Javed²

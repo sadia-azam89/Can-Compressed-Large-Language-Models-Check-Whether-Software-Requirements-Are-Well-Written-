@@ -1,0 +1,22 @@
+# Core (both notebooks)
+torch>=2.1
+transformers>=4.44
+datasets
+accelerate>=0.33
+sentencepiece
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+tqdm
+rouge_score
+
+# 02_compressed_models_experiments.ipynb
+groq
+bert_score
+
+# 01_NICE_reproduction.ipynb
+google-genai
+peft>=0.12
+bitsandbytes
